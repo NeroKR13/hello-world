@@ -19,3 +19,4 @@ During the next session, we will start coding the actual API. @nerokr13 will be 
 * [HTTP methods wiki](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
 * [Gitflow - branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Co-Authoring in Git - Different solutions](https://stackoverflow.com/questions/7442112/attributing-a-single-commit-to-multiple-developers)
