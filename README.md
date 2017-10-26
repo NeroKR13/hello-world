@@ -1,4 +1,4 @@
-# EmEeents REST API
+# EmEevents REST API
 
 ## Overview
 
