@@ -1,0 +1,26 @@
+{
+  "name": "microverse-emevents_api",
+  "version": "1.0.0",
+  "description": "Mobile ticketing API.\u001b[D\u001b[C\u001b[D for EmEvents, Inc.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeroKR13/microverse-emevents_api.git"
+  },
+  "keywords": [
+    "microverse",
+    "api",
+    "rest",
+    "ticketing"
+  ],
+  "author": "Felix A. Rivas, Jessica M. Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeroKR13/microverse-emevents_api/issues"
+  },
+  "homepage": "https://github.com/NeroKR13/microverse-emevents_api#readme"
+}
