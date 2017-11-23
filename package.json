@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/NeroKR13/microverse-emevents_api/issues"
   },
-  "homepage": "https://github.com/NeroKR13/microverse-emevents_api#readme"
+  "homepage": "https://github.com/NeroKR13/microverse-emevents_api#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
