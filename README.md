@@ -14,6 +14,7 @@ During the next session, we will start coding the actual API. @nerokr13 will be 
 
 ## References
 
+* [Exploring ES6](http://exploringjs.com/es6/)
 * [Intro to Github Guides](https://guides.github.com/introduction/getting-your-project-on-github/)
 * [Github Hello-World](https://guides.github.com/activities/hello-world/)
 * [HTTP methods wiki](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
